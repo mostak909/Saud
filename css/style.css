@@ -1,0 +1,30 @@
+body { 
+margin: 0;
+padding: 0;
+}
+
+
+.logo img{
+ width: 150px;
+ height: auto;
+}
+.smg img{
+ width: 200px;
+ height: 250px;
+}
+section{
+margin-bottom: 50px;
+}
+.jambo img{
+width: 100px;
+}
+.inf img{
+width: 300px;
+}
+.inftext{
+padding: 30px;
+color: orange;
+}
+.prod{
+padding: 30px;
+}
